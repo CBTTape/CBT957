@@ -1,0 +1,30 @@
+2023-08-06 08:41:50.959542 - Initialized conversion of CBT957
+2023-08-06 08:41:51.452288 - Received CBT.V505.FILE957.PDS from FILE957.XMI 
+2023-08-06 08:41:51.455060 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:41:51.456258 - Found $IEBUPDT.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/$IEBUPDT
+2023-08-06 08:41:51.457274 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/$PDSLOAD
+2023-08-06 08:41:51.458450 - Found @FILE957.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/@FILE957
+2023-08-06 08:41:51.458462 - Found ASMMAC.bin containing application/octet-stream, moved to PDS/ASMMAC
+2023-08-06 08:41:51.461071 - Found DTXMAC.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/DTXMAC
+2023-08-06 08:41:51.462261 - Found HERB.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/HERB
+2023-08-06 08:41:51.463219 - Found IEBUPCHN.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/IEBUPCHN
+2023-08-06 08:41:51.464151 - Found IEBUPDOC.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/IEBUPDOC
+2023-08-06 08:41:51.465019 - Found IEBUPDT$.jcl (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/IEBUPDT$
+2023-08-06 08:41:51.466370 - Found IEBUPDTX.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/IEBUPDTX
+2023-08-06 08:41:51.467430 - Found JCL.jcl (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/JCL
+2023-08-06 08:41:51.475764 - Found LOADLIB.xmi (application/xmit) in CBT.V505.FILE957.PDS
+2023-08-06 08:41:51.481926   - Received RECFM=U data, stored XMIT file as CBT957/LOADLIB.xmi
+2023-08-06 08:41:51.482984 - Found OLDUPDTX.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/OLDUPDTX
+2023-08-06 08:41:51.488904 - Found PDSLOAD.xmi (application/xmit) in CBT.V505.FILE957.PDS
+2023-08-06 08:41:51.497766   - Received RECFM=U data, stored XMIT file as CBT957/PDSLOAD.xmi
+2023-08-06 08:41:51.498751 - Found PRESS.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/PRESS
+2023-08-06 08:41:51.499776 - Found QDAM.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/QDAM
+2023-08-06 08:41:51.500947 - Found SLACJRE.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/SLACJRE
+2023-08-06 08:41:51.501872 - Found TSM01.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/TSM01
+2023-08-06 08:41:51.502887 - Found TSM02.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/TSM02
+2023-08-06 08:41:51.503898 - Found TSM03.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/TSM03
+2023-08-06 08:41:51.504810 - Found TSM04.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/TSM04
+2023-08-06 08:41:51.505989 - Found UNPRESS.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/UNPRESS
+2023-08-06 08:41:51.508041 - Found WRITEUPX.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/WRITEUPX
+2023-08-06 08:41:51.508993 - Found XDATEDIT.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/XDATEDIT
+2023-08-06 08:41:51.510004 - Found XPRNTSUB.txt (text/plain) in CBT.V505.FILE957.PDS, moved to PDS/XPRNTSUB
